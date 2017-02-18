@@ -5,10 +5,7 @@ Feel free to use them! ^-^
 If you need help or have any issues with props - don't hesitate to ask!
 
 Yay! =)
- 
- 
- 
- 
+ 
 Games list:
 
   Counter-Strike: Global Offensive
