@@ -6,7 +6,7 @@ Video: https://www.youtube.com/watch?v=24HJ4gAcOMw
 
  
 
-Крылья с эффектом исчезания при приближении игрока к ним!
+#### Крылья с эффектом исчезания при приближении игрока к ним!
 
 Распаковать в папку: "...\Counter-Strike Global Offensive\csgo"
 
