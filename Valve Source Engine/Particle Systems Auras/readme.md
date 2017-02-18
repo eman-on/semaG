@@ -5,3 +5,9 @@ Yay! ))
  
  
  Files need to be placed into folder "...\Counter-Strike Global Offensive\csgo"
+
+ 
+ 
+ #### Системы частиц, которые летают вместе с игроком!В общем, ауры! )
+ 
+ Файлы нужно распаковывать в папку "...\Counter-Strike Global Offensive\csgo"
