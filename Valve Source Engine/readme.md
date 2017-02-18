@@ -8,8 +8,13 @@ If you need help or have any issues with props - don't hesitate to ask!
 
 Yay! =)
 
-Texture_code - the example with code to use proxies in your textures.
+ 
+
+
+
+ALL FILES NEED TO BE UNZIPED INTO FOLDER "...\Counter-Strike Global Offensive\csgo"
 
 Particle systems and Players Aura - systems of particles that can follow the players or be used like props.
 
 PerfectWorld wings faded - wings with fade in and fade out effect;
+
