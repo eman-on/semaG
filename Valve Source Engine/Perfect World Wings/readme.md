@@ -1,5 +1,5 @@
 ## PerfectWorld wings faded
-#### wings with fade in and fade out effect!
+#### Wings with fade in and fade out effect!
 To make shooting normal ))
 
  
