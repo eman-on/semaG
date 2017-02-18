@@ -4,4 +4,4 @@ Yay! ))
 
  
  
- Files need to be placed into folder "Counter-Strike Global Offensive\csgo"
+ Files need to be placed into folder "...\Counter-Strike Global Offensive\csgo"
