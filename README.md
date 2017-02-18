@@ -4,6 +4,8 @@ They are huge extra Worlds! And we can expand them like developers just like we 
 In this reposit are presented props that were edited or created for Game Masters.
 
 Games:
-  CS GO,Alien Swarm,Half Life SDK:Source1/2:
-         PerfectWorld wings faded - wings with fade in and fade out effect;
-         Particle systems or Players Aura - systems of particles that can follow the players or be used like props.
+ Counter-Strike: Global Offensive, Team Fortress 2, Dota 2, Alien Swarm, Half Life 1/2, Portal 1/2, Left 4 Dead 1/2:
+  
+  
+Particle systems and Players Aura - systems of particles that can follow the players or be used like props.
+PerfectWorld wings faded - wings with fade in and fade out effect;
