@@ -12,7 +12,7 @@ Yay! =)
 
 
 
-ALL FILES NEED TO BE UNZIPED INTO FOLDER "...\Counter-Strike Global Offensive\csgo"
+ALL FILES NEED TO BE UNZIPPED INTO FOLDER "...\Counter-Strike Global Offensive\csgo"
 
 Particle systems and Players Aura - systems of particles that can follow the players or be used like props.
 
