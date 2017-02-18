@@ -1,4 +1,4 @@
-"VertexLitGeneric"                                 // or other type of texture
+"VertexLitGeneric"                                      // or other type of texture
 {
 
 	"$basetexture" "models\shop\perfectworld_wings\wings01" // texture path, without ".vmt"
