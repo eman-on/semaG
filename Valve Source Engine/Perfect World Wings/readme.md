@@ -6,6 +6,8 @@ Video: https://www.youtube.com/watch?v=24HJ4gAcOMw
 
  
 
+Files need to be placed into folder "...\Counter-Strike Global Offensive\csgo"
+
 Code example:
 ```
  "VertexLitGeneric"                                      // or other type of texture
