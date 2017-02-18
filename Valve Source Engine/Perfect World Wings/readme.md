@@ -2,9 +2,10 @@
 #### Wings with fade in and fade out effect!
 To make shooting normal ))
 
+Video: https://www.youtube.com/watch?v=24HJ4gAcOMw
  
 
-Like example:
+Code example:
 ```
  "VertexLitGeneric"                                      // or other type of texture
  {
