@@ -6,6 +6,10 @@ Video: https://www.youtube.com/watch?v=24HJ4gAcOMw
 
  
 
+Крылья с эффектом исчезания при приближении игрока к ним!
+
+Распаковать в папку: "...\Counter-Strike Global Offensive\csgo"
+
 Files need to be placed into folder "...\Counter-Strike Global Offensive\csgo"
 
 Code example:
