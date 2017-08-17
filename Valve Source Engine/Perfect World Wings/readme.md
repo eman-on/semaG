@@ -35,9 +35,9 @@ Code example:
 
 		Subtract                                 // mathematical operations. see more: "theLINK"
 	        {
-        	        srcVar1     "$distance"
-	       	        srcVar2     "$var02"
-		              resultVar   "$distance"
+        	        srcVar1     "$distance"          // variable "srcVar1" = "$distance" from player to the center of the model
+	       	        srcVar2     "$var02"             // variable "srcVar1" = "$var02" form the uses part
+		              resultVar   "$distance"    // subtracting of srcVar1 and srcVar2 will be writen into $distance variable
 	        }
 		Subtract
 	        {
